@@ -1,11 +1,12 @@
 ### Hey, I'm Agustin 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasillo&label=Profile%20views&color=0e75b6&style=flat" alt="anasillo" /> </p>
 
 ### What do I do for a living? :computer:
 I am an [AWS Authorized Academy Instructor](https://aws.amazon.com/training/aws-authorized-instructor-program/) currently working as a DevOps Engineer and as an **University Professor** @ [ITBA](https://www.itba.edu.ar/)
 
 ### What classes do I deliver?
-I am delivering classes for the following subjects 
+I am delivering classes for the following subjects:
 - Cloud Computing (AWS)
 - Data Analytics & Python fundamentals
 - Cloud Architecting
@@ -13,8 +14,8 @@ I am delivering classes for the following subjects
 ### What certs do I have?
 I'm currently holding (or have held in the past and decided not to pursue the re-certification :sweat_smile:) the following cloud certifications:
 
-Cat       | Name |
-:---      | :---- |
+Category  | Name |
+:-------- | :--- |
 AWS       | AWS Certified Security – Specialty
 AWS       | AWS Certified Solutions Architect – Associate
 AWS       | AWS Certified Cloud Practitioner
@@ -26,10 +27,14 @@ Azure/MS  | Microsoft Certified: Azure Fundamentals
 Azure/MS  | MS-100 Microsoft 365 Identity and Services
 Other     | HCIA Cloud Computing
 
+View them all in my [Acclaim portfolio](https://www.youracclaim.com/users/agustin-nasillo.b8062167)
+
+### Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasillo&show_icons=true&locale=en" alt="anasillo" /></p>
+
 ### Connect with me
 
-[<img align="left" alt="agustin-nasillo | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="agustin-nasillo | Certifications" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][certifications]
+[<img align="left" alt="agustin-nasillo | LinkedIn" width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/agustin-nasillo/
-[certifications]: https://www.youracclaim.com/users/agustin-nasillo.b8062167
